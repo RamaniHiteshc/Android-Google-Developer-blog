@@ -4,7 +4,7 @@ All useful google and android developer blog
 
 ## Author By
 
-#Ramani Hitesh
+# Ramani Hitesh
 
 
 
